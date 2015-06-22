@@ -19,3 +19,4 @@ connection.query('SELECT 1 + 1 AS solution', function(err, rows, fields) {
 connection.end();
 
 //comment
+//new comment
